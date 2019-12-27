@@ -1,0 +1,37 @@
+{
+  "name": "annfit",
+  "authors": [
+    "Anatoliy Popov"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cropper": "~1.0.0",
+    "jquery-ui": "~1.12",
+    "blueimp-gallery": "~2.28",
+    "chosen": "~1.4.2",
+    "sweetalert": "~1",
+    "lightbox2": "~2.8.1",
+    "select2": "~4.0",
+    "jquery-form": "~3.46.0",
+    "x-editable": "~1.5.1",
+    "smalot-bootstrap-datetimepicker": "~2.3.5",
+    "moment": "~2.11.0",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "dropzone":"*",
+    "bootstrap-colorpicker":"*",
+    "blueimp-file-upload":"*",
+    "nestable2": "*"
+  }
+}

@@ -1,0 +1,67 @@
+
+    [{
+        "id": 1,
+        "block": 9,
+        "rooms_count": 3,
+        "bathrooms_count": 1,
+        "balkony_count": 1,
+        "number_on_floor": 1,
+        "total_area": 96.66,
+        "total_price": 1565129,
+        "sale_price": "",
+        "decoration": 0,
+        "features": ["attic", "euro", "oriel"]
+      },
+      {
+        "id": 2,
+        "block": 7,
+        "rooms_count": 1,
+        "bathrooms_count": 2,
+        "balkony_count": 1,
+        "number_on_floor": 30,
+        "total_area": 84.75,
+        "total_price": 7571131,
+        "sale_price": "",
+        "decoration": 0,
+        "features": ["classic", "euro"]
+      },
+      {
+        "id": 3,
+        "block": 9,
+        "rooms_count": 2,
+        "bathrooms_count": 2,
+        "balkony_count": 1,
+        "number_on_floor": 20,
+        "total_area": 215.33,
+        "total_price": 17199616,
+        "sale_price": 7978780,
+        "decoration": 0,
+        "features": ["oriel", "classic", "decoration", "attic"]
+      },
+      {
+        "id": 4,
+        "block": 9,
+        "rooms_count": 4,
+        "bathrooms_count": 2,
+        "balkony_count": 0,
+        "number_on_floor": 5,
+        "total_area": 121.37,
+        "total_price": 6389162,
+        "sale_price": "",
+        "decoration": 1,
+        "features": ["decoration", "attic", "euro", "classic"]
+      },
+      {
+        "id": 5,
+        "block": 3,
+        "rooms_count": 3,
+        "bathrooms_count": 1,
+        "balkony_count": 1,
+        "number_on_floor": 30,
+        "total_area": 114.18,
+        "total_price": 10529803,
+        "sale_price": "",
+        "decoration": 0,
+        "features": ["oriel", "decoration", "attic", "euro", "classic"]
+      }
+    ]

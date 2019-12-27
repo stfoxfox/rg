@@ -1,0 +1,427 @@
+
+    {
+      "id": 0,
+      "title": "Корпус 3 секция 1",
+      "data": [
+        [
+          [
+            {
+              "flat_id": 0,
+              "flat_number": 1,
+              "rooms_count": 1,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 1,
+              "flat_number": 2,
+              "rooms_count": 2,
+              "status": "sold",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 2,
+              "flat_number": 3,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 3,
+              "flat_number": 4,
+              "rooms_count": 1,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 4,
+              "flat_number": 5,
+              "rooms_count": 2,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 5,
+              "flat_number": 6,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 6,
+              "flat_number": 7,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 7,
+              "flat_number": 8,
+              "rooms_count": 2,
+              "status": "current",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 8,
+              "flat_number": 9,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 9,
+              "flat_number": 10,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 10,
+              "flat_number": 11,
+              "rooms_count": 2,
+              "status": "sold",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 11,
+              "flat_number": 12,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 12,
+              "flat_number": 13,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 13,
+              "flat_number": 14,
+              "rooms_count": 2,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 14,
+              "flat_number": 15,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 15,
+              "flat_number": 16,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 16,
+              "flat_number": 17,
+              "rooms_count": 2,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 17,
+              "flat_number": 18,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "flat_id": 0,
+              "flat_number": 1,
+              "rooms_count": 1,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 1,
+              "flat_number": 2,
+              "rooms_count": 2,
+              "status": "sold",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 2,
+              "flat_number": 3,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 3,
+              "flat_number": 4,
+              "rooms_count": 1,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 4,
+              "flat_number": 5,
+              "rooms_count": 2,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 5,
+              "flat_number": 6,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 6,
+              "flat_number": 7,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 7,
+              "flat_number": 8,
+              "rooms_count": 2,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 8,
+              "flat_number": 9,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 9,
+              "flat_number": 10,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 10,
+              "flat_number": 11,
+              "rooms_count": 2,
+              "status": "sold",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 11,
+              "flat_number": 12,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 12,
+              "flat_number": 13,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 13,
+              "flat_number": 14,
+              "rooms_count": 2,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 14,
+              "flat_number": 15,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 15,
+              "flat_number": 16,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 16,
+              "flat_number": 17,
+              "rooms_count": 2,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 17,
+              "flat_number": 18,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ]
+        ],
+        [
+          [
+            {
+              "flat_id": 0,
+              "flat_number": 1,
+              "rooms_count": 1,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 1,
+              "flat_number": 2,
+              "rooms_count": 2,
+              "status": "sold",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 2,
+              "flat_number": 3,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 3,
+              "flat_number": 4,
+              "rooms_count": 1,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 4,
+              "flat_number": 5,
+              "rooms_count": 2,
+              "status": "available",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 5,
+              "flat_number": 6,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 6,
+              "flat_number": 7,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 7,
+              "flat_number": 8,
+              "rooms_count": 2,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 8,
+              "flat_number": 9,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 9,
+              "flat_number": 10,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 10,
+              "flat_number": 11,
+              "rooms_count": 2,
+              "status": "sold",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 11,
+              "flat_number": 12,
+              "rooms_count": 1,
+              "status": "sold",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 12,
+              "flat_number": 13,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 13,
+              "flat_number": 14,
+              "rooms_count": 2,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 14,
+              "flat_number": 15,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ],
+          [
+            {
+              "flat_id": 15,
+              "flat_number": 16,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 16,
+              "flat_number": 17,
+              "rooms_count": 2,
+              "status": "unavailable",
+              "url": "/flat.html"
+            },
+            {
+              "flat_id": 17,
+              "flat_number": 18,
+              "rooms_count": 1,
+              "status": "unavailable",
+              "url": "/flat.html"
+            }
+          ]
+        ]
+      ]
+    }

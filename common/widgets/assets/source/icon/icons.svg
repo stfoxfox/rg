@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="border: 0 !important; clip: rect(0 0 0 0) !important; height: 1px !important; margin: -1px !important; overflow: hidden !important; padding: 0 !important; position: absolute !important; width: 1px !important;" class="root-svg-symbols-element">
+<defs>
+
+<symbol id="pink-arrow-breadcrumbs" viewBox="0 0 4 7">
+    <path d="M0 5.25V7l4-3.5L0 0v1.75L2 3.5 0 5.25z" fill="#D8D8D8" fill-rule="evenodd" />
+</symbol>
+<symbol id="pink-arrow-next" viewBox="0 0 29 29">
+    <path fill="currentColor" d="M28 14.674l.177-.174-.354-.348L14.838 1.348 14.485 1l-.706.696.353.349 12.133 11.963H1v.984h25.265L14.132 26.955l-.353.349.706.696.353-.348 12.985-12.804.177-.174z" fill-rule="evenodd" />
+</symbol>
+<symbol id="pink-arrow-prev" viewBox="0 0 29 29">
+    <path fill="currentColor" d="M1 14.674L.823 14.5l.354-.348L14.162 1.348 14.515 1l.706.696-.353.349L2.735 14.008H28v.984H2.735l12.133 11.963.353.349-.706.696-.353-.348L1.177 14.848 1 14.674z" />
+</symbol>
+<symbol id="pink-hellip" viewBox="0 0 15 3">
+    <g fill="currentColor" fill-rule="evenodd">
+        <circle cx="1.5" cy="1.5" r="1.5" />
+        <circle cx="7.5" cy="1.5" r="1.5" />
+        <circle cx="13.5" cy="1.5" r="1.5" />
+    </g>
+</symbol>
+<symbol id="pink-icon-close" viewBox="0 0 14 14">
+    <path fill="currentColor" d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill-rule="evenodd" />
+</symbol>
+<symbol id="pink-icon-doc" viewBox="0 0 84 85">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#E9EFF5" d="M66.983 0H21v85h63V17.875L66.983 0" />
+        <path fill="#CCDCE0" d="M67 0v18h17L67 0" />
+        <path fill="#9B9B9B" d="M15 38l-.881-.881-3.494 3.487V33h-1.25v7.606l-3.487-3.494L5 38l5 5z" />
+        <path fill="#0070C9" d="M0 24h60V4H0z" />
+        <path d="M14.577 8.022h4.615c3.594 0 5.71 2.142 5.71 5.943 0 3.802-2.116 6.035-5.71 6.035h-4.615V8.022zm2.506 2.067v7.836h1.81c2.241 0 3.453-1.362 3.453-3.951 0-2.507-1.245-3.885-3.453-3.885h-1.81zm13.834-2.275c3.544 0 5.777 2.383 5.777 6.201 0 3.81-2.233 6.193-5.777 6.193-3.553 0-5.777-2.383-5.777-6.193 0-3.818 2.224-6.2 5.777-6.2zm0 2.092c-1.959 0-3.22 1.594-3.22 4.11 0 2.506 1.253 4.091 3.22 4.091 1.959 0 3.212-1.585 3.212-4.092 0-2.515-1.253-4.109-3.212-4.109zm11.684 10.302c2.938 0 4.988-1.694 5.27-4.367h-2.44c-.265 1.42-1.336 2.291-2.822 2.291-1.918 0-3.121-1.577-3.121-4.133 0-2.524 1.22-4.11 3.113-4.11 1.46 0 2.59.964 2.822 2.433h2.44c-.19-2.681-2.382-4.508-5.262-4.508-3.47 0-5.67 2.333-5.67 6.193 0 3.868 2.183 6.2 5.67 6.2z"
+        fill="#FFF" />
+        <path fill="#CCDCE0" d="M31 54h24v3H31zm0 7h24v3H31zm28-7h12v3H59zm0 7h12v3H59zm-28 7h24v3H31zm28 0h12v3H59zm-28 7h24v3H31zm28 0h12v3H59zM31 31h40v19H31z" />
+    </g>
+</symbol>
+<symbol id="pink-icon-pdf" viewBox="0 0 84 85">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#E9EFF5" d="M66.983 0H21v85h63V17.875L66.983 0" />
+        <path fill="#CCDCE0" d="M67 0v18h17L67 0" />
+        <path fill="#9B9B9B" d="M15 38l-.881-.881-3.494 3.487V33h-1.25v7.606l-3.487-3.494L5 38l5 5z" />
+        <path fill="#C8282B" d="M0 24h60V4H0z" />
+        <path d="M17.054 8.022h4.998c2.457 0 4.15 1.635 4.15 4.1 0 2.458-1.752 4.101-4.275 4.101h-2.366V20h-2.507V8.022zm2.507 1.984v4.258h1.818c1.436 0 2.275-.764 2.275-2.133 0-1.361-.83-2.125-2.267-2.125h-1.826zm7.118-1.984h4.616c3.594 0 5.71 2.142 5.71 5.943 0 3.802-2.116 6.035-5.71 6.035h-4.616V8.022zm2.507 2.067v7.836h1.81c2.241 0 3.453-1.362 3.453-3.951 0-2.507-1.245-3.885-3.453-3.885h-1.81zM40.123 20v-4.715h4.872v-1.984h-4.872V10.09h5.337V8.022h-7.844V20h2.507z"
+        fill="#FFF" />
+        <path fill="#CCDCE0" d="M31 54h24v3H31zm0 7h24v3H31zm28-7h12v3H59zm0 7h12v3H59zm-28 7h24v3H31zm28 0h12v3H59zm-28 7h24v3H31zm28 0h12v3H59zM31 31h40v19H31z" />
+    </g>
+</symbol>
+<symbol id="pink-icon-rotate" viewBox="0 0 20 20">
+    <path fill="currentColor" d="M13.55 4.55L9 0v3.07C5.06 3.56 2 6.92 2 11s3.05 7.44 7 7.93v-2.02c-2.84-.48-5-2.94-5-5.91s2.16-5.43 5-5.91V9l4.55-4.45zM17.93 10a7.906 7.906 0 0 0-1.62-3.89l-1.42 1.42c.54.75.88 1.6 1.02 2.47h2.02zM11 16.9v2.02c1.39-.17 2.74-.71 3.9-1.61l-1.44-1.44c-.75.54-1.59.89-2.46 1.03zm3.89-2.42l1.42 1.41c.9-1.16 1.45-2.5 1.62-3.89h-2.02c-.14.87-.48 1.72-1.02 2.48z"
+    fill-rule="evenodd" />
+</symbol>
+<symbol id="pink-percent" viewBox="0 0 25 25">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="currentColor" d="M12.5 21.58L7.322 25 6.08 18.92 0 17.678 3.42 12.5 0 7.322 6.08 6.08 7.322 0 12.5 3.42 17.678 0l1.242 6.08L25 7.322 21.58 12.5 25 17.678l-6.08 1.242L17.678 25z" />
+        <circle fill="#FFF" cx="10" cy="9" r="2" />
+        <circle fill="#FFF" cx="15" cy="16" r="2" />
+        <path fill="#FFF" d="M14.828 8.757l1.415 1.415-7.071 7.07-1.415-1.414z" />
+    </g>
+</symbol>
+<symbol id="pink-present" viewBox="0 0 18 25">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="currentColor" d="M0 8h17v17H0z" />
+        <path fill="#FFF" d="M7 8h3v17H7z" />
+        <path fill="#FFF" d="M0 15v3h17v-3z" />
+        <path d="M3.757 4.551C2.04 4.281.699 3.685 1.145 2.376 1.591 1.068 3.14.732 5.084 1.201c1.295.313 2.329 1.27 3.1 2.874-1.808.497-3.284.656-4.427.476zm9.671 0c-1.144.18-2.62.021-4.428-.476.771-1.604 1.805-2.561 3.1-2.874 1.944-.469 3.493-.133 3.939 1.175.446 1.309-.896 1.906-2.611 2.175z"
+        stroke="currentColor" stroke-width="2" />
+    </g>
+</symbol>
+<symbol id="pink-triangle" viewBox="0 0 13 9">
+    <path d="M6.5 0L13 9H0z" fill="currentColor" fill-rule="evenodd" />
+</symbol>
+
+</defs>
+</svg>

@@ -1,0 +1,37 @@
+/*------------- #Styles for svg-icons --------------*/
+@font-face {
+    font-family: 'PinkIcons';
+    src: url('icons.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+[class^="pink-"] {
+    height: 26px;
+    width: 26px;
+    display: inline-block;
+    font: normal normal normal 26px/1 PinkIcons;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/*.fav-icon {*/
+    /*width: 20px;*/
+    /*height: 20px; }*/
+
+/*.arrow-down-icon {*/
+    /*width: 6px;*/
+    /*height: 4px; }*/
+
+/*.olymp-three-dots-icon {*/
+    /*width: 16px;*/
+    /*height: 4px; }*/
+
+/*.olymp-little-delete {*/
+    /*width: 8px;*/
+    /*height: 8px; }*/
+
+/*.olymp-trophy-icon {*/
+    /*width: 18px;*/
+    /*height: 16px; }*/
